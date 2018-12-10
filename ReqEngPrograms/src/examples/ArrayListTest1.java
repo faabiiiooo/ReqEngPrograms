@@ -11,6 +11,7 @@ import org.junit.jupiter.api.Test;
 public class ArrayListTest1 {
 	
 	//Testprojekte
+	// sehr einfach!!!
 
 	ArrayList<String> list;
 
