@@ -2,6 +2,7 @@ package ownExamples;
 
 public class Rectangle {
 	
+	//gugus
 	private double length, width;
 	
 	public Rectangle(double length, double width) {
